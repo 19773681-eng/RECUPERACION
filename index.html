@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TechStore | Tienda Digital</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header class="encabezado">
+        <h1>💻 TechStore</h1>
+        <p>Tu tecnología, al mejor precio</p>
+
+        <nav>
+            <a href="#inicio">Inicio</a>
+            <a href="#productos">Productos</a>
+            <a href="#carrito">Carrito 🛒</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="bienvenida" id="inicio">
+            <h2>Bienvenido a TechStore</h2>
+            <p>Encuentra los mejores productos tecnológicos.</p>
+        </section>
+
+        <section class="catalogo" id="productos">
+            <h2>Nuestros productos</h2>
+
+            <input
+                type="search"
+                id="buscador"
+                placeholder="Buscar un producto..."
+                aria-label="Buscar productos"
+            >
+
+            <p id="mensajeBusqueda" class="mensaje"></p>
+
+            <div class="productos" id="listaProductos">
+                <!-- Los productos se mostrarán con JavaScript -->
+            </div>
+        </section>
+
+        <section class="carrito" id="carrito">
+            <h2>🛒 Carrito de compras</h2>
+
+            <div id="listaCarrito">
+                <p>Tu carrito está vacío.</p>
+            </div>
+
+            <h3>Total: $<span id="total">0.00</span></h3>
+
+            <button id="btnComprar" class="btn-comprar">
+                Finalizar compra
+            </button>
+
+            <p id="mensajeCompra" class="mensaje" role="status"></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2026 TechStore - Proyecto de Desarrollo de Software</p>
+        <p>Proyecto académico de recuperación de módulo.</p>
+    </footer>
+
+    <script src="javascript.js"></script>
+</body>
+</html>
