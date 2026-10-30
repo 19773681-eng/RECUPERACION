@@ -1,8 +1,26 @@
 # RECUPERACION
-📚 Proyecto de Recuperación de Módulo – Desarrollo de Software
+👋 ¡Hola! Soy un estudiante de Desarrollo de Software
 
-Este repositorio tiene como objetivo realizar las actividades correspondientes a la recuperación del módulo de Desarrollo de Software, reforzando los conocimientos adquiridos durante la materia y mejorando el aprendizaje.
+💻 Sobre mí
 
-Aquí se documentarán las actividades, correcciones y trabajos realizados con el propósito de fortalecer las habilidades de programación y contribuir a la recuperación de la calificación del módulo.
+¡Bienvenido a mi perfil de GitHub! Soy un estudiante que está comenzando en el mundo de la programación y el desarrollo de software. Me gusta aprender cosas nuevas, descubrir cómo funcionan los programas y mejorar mis habilidades poco a poco.
 
-💻 Objetivo: Reforzar los conocimientos y demostrar lo aprendido mediante el desarrollo de las actividades asignadas.
+🚀 Actualmente estoy aprendiendo
+
+- 🌐 Desarrollo web con HTML y CSS.
+- 💻 Fundamentos de programación.
+- 🛠️ Cómo crear, organizar y mejorar proyectos.
+- 📚 Buenas prácticas para escribir código.
+
+🎯 Mis objetivos
+
+- Aprender nuevos lenguajes de programación.
+- Crear mis propios proyectos.
+- Mejorar mis habilidades como programador.
+- Convertirme en un buen desarrollador de software.
+
+📈 Mi filosofía
+
+«Cada error es una oportunidad para aprender y mejorar.»
+
+⭐ Gracias por visitar mi perfil. ¡Esto es solo el comienzo de mi camino en la programación!
